@@ -1,0 +1,3 @@
+C:\DevCentral\GITRepos\Private\docker-tryouts\my-aspnet-core\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\my-aspnet-core\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\my-aspnet-core\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
