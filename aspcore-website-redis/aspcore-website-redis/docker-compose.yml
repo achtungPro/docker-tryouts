@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+  redis-server-docker:
+    image: redis
+  aspnet-application-docker:
+    build: .
+    ports:
+      - "8001:80"
