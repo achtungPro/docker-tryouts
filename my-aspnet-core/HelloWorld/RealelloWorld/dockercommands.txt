@@ -4,4 +4,4 @@
 
 docker build -t shashankvittal/hello-world-aspnet .
 docker run --name=volumes -p 8002:80 shashankvittal/hello-world-aspnet
-docker run --name=volumes -p 8002:80 -v "C:/DevCentral/DOCKER_FILES/Hello-aspnet-core3":/usr/app/wwwroot shashankvittal/hello-world-aspnet
+docker run --name=volumes -p 8002:80 -v "C:/DevCentral/DOCKER_FILES/Hello-aspnet-core3":/data shashankvittal/hello-world-aspnet
