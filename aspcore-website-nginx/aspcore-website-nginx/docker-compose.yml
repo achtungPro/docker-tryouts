@@ -1,0 +1,17 @@
+version: "2.0"
+services:  
+  my-aspnet-core:
+    build:
+      context: .
+      dockerfile: docker-my-aspnet
+    ports:
+      - "5200:5200"
+  my-nginx:
+    build:
+      context: .
+      dockerfile: docker-my-nginx
+    ports:
+      - "8002:80"
+    depends_on:
+      - 'my-aspnet-core'
+

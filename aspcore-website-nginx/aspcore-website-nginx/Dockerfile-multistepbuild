@@ -1,0 +1,12 @@
+FROM nginx as server
+COPY proxy /etc/nginx/conf.d/default.conf
+RUN ["service","nginx","restart"]
+
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.1 as Deploy
+WORKDIR /usr/app
+COPY ./bin/Debug/netcoreapp2.1/publish ./
+COPY --from=server /etc/nginx/conf.d/default.conf ./nginx-test
+CMD ["dotnet", "aspcore-website-nginx.dll"]
+
+
+#docker run -it -p 80:80 -v "C:/DevCentral/DOCKER_FILES/proxy":/etc/nginx/sites-available/default nginx
