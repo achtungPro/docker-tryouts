@@ -1,0 +1,14 @@
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\bin\Debug\netcoreapp2.1\BackendApi.deps.json
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\bin\Debug\netcoreapp2.1\BackendApi.runtimeconfig.json
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\bin\Debug\netcoreapp2.1\BackendApi.runtimeconfig.dev.json
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\bin\Debug\netcoreapp2.1\BackendApi.dll
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\bin\Debug\netcoreapp2.1\BackendApi.pdb
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.csprojAssemblyReference.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.csproj.CoreCompileInputs.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.RazorAssemblyInfo.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.RazorAssemblyInfo.cs
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.AssemblyInfoInputs.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.AssemblyInfo.cs
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.RazorTargetAssemblyInfo.cache
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.dll
+C:\DevCentral\GITRepos\Private\docker-tryouts\aspcore-api-redis-mysql-ecs\aspcore-api-redis-mysql-ecs\BackendApi\obj\Debug\netcoreapp2.1\BackendApi.pdb

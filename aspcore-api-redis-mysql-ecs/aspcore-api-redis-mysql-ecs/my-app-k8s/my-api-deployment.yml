@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: app-deployment
+spec:
+    replicas: 3
+    selector:
+        matchLabels:
+            component: app
+    template:
+        metadata:
+            labels:
+                component: app
+        spec:
+            containers:
+                - name: my-app-component
+                  image: shashankvittal/my-aspnet-backendapi
+                  ports:
+                   - containerPort: 5400    
+    

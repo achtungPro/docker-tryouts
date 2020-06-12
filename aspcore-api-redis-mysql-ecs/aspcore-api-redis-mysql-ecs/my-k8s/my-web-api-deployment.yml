@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: web-deployment
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            component: web
+    template:
+        metadata:
+            labels:
+                component: web
+        spec:
+            containers:
+                - name: my-web-container
+                  image: shashankvittal/my-aspnet-core-with-api:k8s
+                  ports:
+                   - containerPort: 5200
+                - name: my-app-container
+                  image: shashankvittal/my-aspnet-backendapi
+                  ports:
+                    - containerPort: 5400
